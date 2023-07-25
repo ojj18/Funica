@@ -1,0 +1,23 @@
+[
+    {
+        "label":"All"
+    },
+    {
+        "label":"Sofa"
+    },
+    {
+        "label":"Chair"
+    },
+    {
+        "label":"Table"
+    },
+    {
+        "label":"Kitchen"
+    }, {
+        "label":"Lamp"
+    }, {
+        "label":"Cupboard"
+    }, {
+        "label":"Vase"
+    }
+]

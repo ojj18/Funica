@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/cubboards/cupboard_1.jpg",
+    "name": "Mid Century cupboard",
+    "star": "4.3",
+    "sold": "3,599",
+    "price": "$105.00"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/cubboards/cupboard_2.jpg",
+    "name": "Lawson cupboard",
+    "star": "4.4",
+    "sold": "4,599",
+    "price": "$110.00"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/cubboards/cupboard_3.jpg",
+    "name": "Tuxedo cupboard",
+    "star": "4.5",
+    "sold": "5,599",
+    "price": "$115.00"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/cubboards/cubboard_4.jpg",
+    "name": "Wingback cupboard",
+    "star": "4.6",
+    "sold": "6,599",
+    "price": "$120.00"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/cubboards/cubboard_5.jpg",
+    "name": "Occasional cupboard",
+    "star": "4.6",
+    "sold": "7,599",
+    "price": "$125.00"
+  }
+]

@@ -1,0 +1,283 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/chairs/chair_1.jpg",
+      "name": "Rocking chair",
+      "star": "4.3",
+      "sold": "3,599",
+      "price": "$105.00"
+    },
+    {
+      "id": 2,
+      "image": "assets/images/chairs/chair_2.jpg",
+      "name": "High chair",
+      "star": "4.4",
+      "sold": "4,599",
+      "price": "$110.00"
+    },
+    {
+      "id": 3,
+      "image": "assets/images/chairs/chair_3.jpg",
+      "name": "Lawson chair",
+      "star": "4.5",
+      "sold": "5,599",
+      "price": "$115.00"
+    },
+    {
+      "id": 4,
+      "image": "assets/images/chairs/chair_4.jpg",
+      "name": "Wingback chair",
+      "star": "4.6",
+      "sold": "6,599",
+      "price": "$120.00"
+    },
+    {
+      "id": 5,
+      "image": "assets/images/chairs/chair_5.jpg",
+      "name": "Occasional chair",
+      "star": "4.6",
+      "sold": "7,599",
+      "price": "$125.00"
+    },
+    {
+        "id": 6,
+        "image": "assets/images/cubboards/cupboard_1.jpg",
+        "name": "Mid Century cupboard",
+        "star": "4.3",
+        "sold": "3,599",
+        "price": "$105.00"
+      },
+      {
+        "id": 7,
+        "image": "assets/images/cubboards/cupboard_2.jpg",
+        "name": "Lawson cupboard",
+        "star": "4.4",
+        "sold": "4,599",
+        "price": "$110.00"
+      },
+      {
+        "id": 8,
+        "image": "assets/images/cubboards/cupboard_3.jpg",
+        "name": "Tuxedo cupboard",
+        "star": "4.5",
+        "sold": "5,599",
+        "price": "$115.00"
+      },
+      {
+        "id": 9,
+        "image": "assets/images/cubboards/cubboard_4.jpg",
+        "name": "Wingback cupboard",
+        "star": "4.6",
+        "sold": "6,599",
+        "price": "$120.00"
+      },
+      {
+        "id": 10,
+        "image": "assets/images/cubboards/cubboard_5.jpg",
+        "name": "Occasional cupboard",
+        "star": "4.6",
+        "sold": "7,599",
+        "price": "$125.00"
+      },
+      {
+        "id": 11,
+        "image": "assets/images/kitchens/kitchen_1.jpg",
+        "name": "Mid Century kitchen",
+        "star": "4.3",
+        "sold": "3,599",
+        "price": "$105.00"
+      },
+      {
+        "id": 12,
+        "image": "assets/images/kitchens/kitchen_2.jpg",
+        "name": "Lawson kitchen",
+        "star": "4.4",
+        "sold": "4,599",
+        "price": "$110.00"
+      },
+      {
+        "id": 13,
+        "image": "assets/images/kitchens/kitchen_3.jpg",
+        "name": "Tuxedo kitchen",
+        "star": "4.5",
+        "sold": "5,599",
+        "price": "$115.00"
+      },
+      {
+        "id": 14,
+        "image": "assets/images/kitchens/kitchen_4.jpg",
+        "name": "Wingback kitchen",
+        "star": "4.6",
+        "sold": "6,599",
+        "price": "$120.00"
+      },
+      {
+        "id": 15,
+        "image": "assets/images/kitchens/kitchen_5.jpg",
+        "name": "Occasional kitchen",
+        "star": "4.6",
+        "sold": "7,599",
+        "price": "$125.00"
+      },
+      {
+        "id": 16,
+        "image": "assets/images/lamps/lamp_1.jpg",
+        "name": "Mid Century lamp",
+        "star": "4.3",
+        "sold": "3,599",
+        "price": "$105.00"
+      },
+      {
+        "id": 17,
+        "image": "assets/images/lamps/lamp_2.jpg",
+        "name": "Lawson lamp",
+        "star": "4.4",
+        "sold": "4,599",
+        "price": "$110.00"
+      },
+      {
+        "id": 18,
+        "image": "assets/images/lamps/lamp_3.jpg",
+        "name": "Tuxedo lamp",
+        "star": "4.5",
+        "sold": "5,599",
+        "price": "$115.00"
+      },
+      {
+        "id": 19,
+        "image": "assets/images/lamps/lamp_4.jpg",
+        "name": "Wingback lamp",
+        "star": "4.6",
+        "sold": "6,599",
+        "price": "$120.00"
+      },
+      {
+        "id": 20,
+        "image": "assets/images/lamps/lamp_5.jpg",
+        "name": "Occasional lamp",
+        "star": "4.6",
+        "sold": "7,599",
+        "price": "$125.00"
+      },
+      {
+        "id": 21,
+        "image": "assets/images/sofas/sofa_1.jpg",
+        "name": "Mid Century sofa",
+        "star": "4.3",
+        "sold": "3,599",
+        "price": "$105.00"
+      },
+      {
+        "id": 22,
+        "image": "assets/images/sofas/sofa_2.jpg",
+        "name": "Lawson sofa",
+        "star": "4.4",
+        "sold": "4,599",
+        "price": "$110.00"
+      },
+      {
+        "id": 23,
+        "image": "assets/images/sofas/sofa_3.jpg",
+        "name": "Tuxedo sofa",
+        "star": "4.5",
+        "sold": "5,599",
+        "price": "$115.00"
+      },
+      {
+        "id": 24,
+        "image": "assets/images/sofas/sofa_4.jpg",
+        "name": "Wingback sofa",
+        "star": "4.6",
+        "sold": "6,599",
+        "price": "$120.00"
+      },
+      {
+        "id": 25,
+        "image": "assets/images/sofas/sofa_5.jpg",
+        "name": "Occasieonal sofa",
+        "star": "4.6",
+        "sold": "7,599",
+        "price": "$125.00"
+      },
+      {
+        "id": 26,
+        "image": "assets/images/tables/table_1.jpg",
+        "name": "Mid Century table",
+        "star": "4.3",
+        "sold": "3,599",
+        "price": "$105.00"
+      },
+      {
+        "id": 27,
+        "image": "assets/images/tables/table_2.jpg",
+        "name": "Lawson table",
+        "star": "4.4",
+        "sold": "4,599",
+        "price": "$110.00"
+      },
+      {
+        "id": 28,
+        "image": "assets/images/tables/table_3.jpg",
+        "name": "Tuxedo table",
+        "star": "4.5",
+        "sold": "5,599",
+        "price": "$115.00"
+      },
+      {
+        "id": 29,
+        "image": "assets/images/tables/table_4.jpg",
+        "name": "Wingback table",
+        "star": "4.6",
+        "sold": "6,599",
+        "price": "$120.00"
+      },
+      {
+        "id": 30,
+        "image": "assets/images/tables/table_5.jpg",
+        "name": "Occasional table",
+        "star": "4.6",
+        "sold": "7,599",
+        "price": "$125.00"
+      },
+      {
+        "id": 31,
+        "image": "assets/images/vases/vase_1.jpg",
+        "name": "Mid Century vase",
+        "star": "4.3",
+        "sold": "3,599",
+        "price": "$105.00"
+      },
+      {
+        "id": 32,
+        "image": "assets/images/vases/vase_2.jpg",
+        "name": "Lawson vase",
+        "star": "4.4",
+        "sold": "4,599",
+        "price": "$110.00"
+      },
+      {
+        "id": 33,
+        "image": "assets/images/vases/vase_3.jpg",
+        "name": "Tuxedo vase",
+        "star": "4.5",
+        "sold": "5,599",
+        "price": "$115.00"
+      },
+      {
+        "id": 34,
+        "image": "assets/images/vases/vase_4.jpg",
+        "name": "Wingback vase",
+        "star": "4.6",
+        "sold": "6,599",
+        "price": "$120.00"
+      },
+      {
+        "id": 35,
+        "image": "assets/images/vases/vase_5.jpg",
+        "name": "Occasional vase",
+        "star": "4.6",
+        "sold": "7,599",
+        "price": "$125.00"
+      }
+  ]
+  

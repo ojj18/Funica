@@ -1,0 +1,26 @@
+[
+    {
+        "discount":"25%",
+        "deals":"Today's Special",
+        "desc":"Get discount for every order. only valid for today.",
+        "image":"assets/images/slider_1.png"
+    },
+    {
+        "discount":"15%",
+        "deals":"Weekends Deals",
+        "desc":"Get discount for every order. only valid for today.",
+        "image":"assets/images/slider_2.png"
+    },
+    {
+        "discount":"30%",
+        "deals":"New Arrivals",
+        "desc":"Get discount for every order. only valid for today.",
+        "image":"assets/images/slider_3.png"
+    },
+    {
+        "discount":"20%",
+        "deals":"Black Friday",
+        "desc":"Get discount for every order. only valid for today.",
+        "image":"assets/images/slider_4.png"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "icon":"assets/Icons/sofa.png",
+        "label":"Sofa"
+    },{
+        "icon":"assets/Icons/chair.png",
+        "label":"Chair"
+    },{
+        "icon":"assets/Icons/table.png",
+        "label":"Table"
+    },{
+        "icon":"assets/Icons/fridge.png",
+        "label":"Kitchen"
+    },{
+        "icon":"assets/Icons/lamp.png",
+        "label":"Lamp"
+    },{
+        "icon":"assets/Icons/cupboard.png",
+        "label":"Cupboard"
+    },{
+        "icon":"assets/Icons/flower.png",
+        "label":"Vase"
+    },{
+        "icon":"assets/Icons/more.png",
+        "label":"Others"
+    }
+]

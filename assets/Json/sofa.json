@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/sofas/sofa_1.jpg",
+    "name": "Mid Century sofa",
+    "star": "4.3",
+    "sold": "3,599",
+    "price": "$105.00"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/sofas/sofa_2.jpg",
+    "name": "Lawson sofa",
+    "star": "4.4",
+    "sold": "4,599",
+    "price": "$110.00"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/sofas/sofa_3.jpg",
+    "name": "Tuxedo sofa",
+    "star": "4.5",
+    "sold": "5,599",
+    "price": "$115.00"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/sofas/sofa_4.jpg",
+    "name": "Wingback sofa",
+    "star": "4.6",
+    "sold": "6,599",
+    "price": "$120.00"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/sofas/sofa_5.jpg",
+    "name": "Occasieonal sofa",
+    "star": "4.6",
+    "sold": "7,599",
+    "price": "$125.00"
+  }
+]

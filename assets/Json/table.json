@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/tables/table_1.jpg",
+    "name": "Mid Century table",
+    "star": "4.3",
+    "sold": "3,599",
+    "price": "$105.00"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/tables/table_2.jpg",
+    "name": "Lawson table",
+    "star": "4.4",
+    "sold": "4,599",
+    "price": "$110.00"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/tables/table_3.jpg",
+    "name": "Tuxedo table",
+    "star": "4.5",
+    "sold": "5,599",
+    "price": "$115.00"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/tables/table_4.jpg",
+    "name": "Wingback table",
+    "star": "4.6",
+    "sold": "6,599",
+    "price": "$120.00"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/tables/table_5.jpg",
+    "name": "Occasional table",
+    "star": "4.6",
+    "sold": "7,599",
+    "price": "$125.00"
+  }
+]
